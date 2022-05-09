@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\gizbo\\Source\\Repos\\ivaniiq\\PruebaClase\\Prueba\\Prueba.csproj": {}
+    "C:\\Users\\gizbo\\source\\repos\\ivaniiq\\PruebaClase\\Prueba\\Prueba.csproj": {}
   },
   "projects": {
-    "C:\\Users\\gizbo\\Source\\Repos\\ivaniiq\\PruebaClase\\Prueba\\Prueba.csproj": {
+    "C:\\Users\\gizbo\\source\\repos\\ivaniiq\\PruebaClase\\Prueba\\Prueba.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\gizbo\\Source\\Repos\\ivaniiq\\PruebaClase\\Prueba\\Prueba.csproj",
+        "projectUniqueName": "C:\\Users\\gizbo\\source\\repos\\ivaniiq\\PruebaClase\\Prueba\\Prueba.csproj",
         "projectName": "Prueba",
-        "projectPath": "C:\\Users\\gizbo\\Source\\Repos\\ivaniiq\\PruebaClase\\Prueba\\Prueba.csproj",
+        "projectPath": "C:\\Users\\gizbo\\source\\repos\\ivaniiq\\PruebaClase\\Prueba\\Prueba.csproj",
         "packagesPath": "C:\\Users\\gizbo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\gizbo\\Source\\Repos\\ivaniiq\\PruebaClase\\Prueba\\obj\\",
+        "outputPath": "C:\\Users\\gizbo\\source\\repos\\ivaniiq\\PruebaClase\\Prueba\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\gizbo\\AppData\\Roaming\\NuGet\\NuGet.Config",
